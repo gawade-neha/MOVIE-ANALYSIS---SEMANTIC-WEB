@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Jena - ARQ (SPARQL 1.1 Query Engine)
+Implementation-Version: 3.1.0
+Archiver-Version: Plexus Archiver
+Built-By: afs
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Jena - ARQ (SPARQL 1.1 Query Engine)
+Implementation-Vendor-Id: org.apache.jena
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_91
+Specification-Version: 3.1.0
+Implementation-Vendor: The Apache Software Foundation
+
